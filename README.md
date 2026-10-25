@@ -2,9 +2,9 @@
 
 [Open the interactive mobile app preview](https://jvorndran.github.io/bible-tube/) or the [visual user flow guide](https://jvorndran.github.io/bible-tube/flows/).
 
-15 storyboards, complete 66-book Bibles in English/Spanish/Portuguese, reading plans, daily devotionals, guided prayer, local Scripture search, bookmarks, journals, and streaks. Seven user-flow diagrams include 23 UI snapshots you can enlarge and links to try each screen. All current content is free.
+15 storyboards, complete 66-book Bibles in English/Spanish/Portuguese, reading plans, daily devotionals, guided prayer, local Scripture search, bookmarks, journals, and streaks. Seven user-flow diagrams include 23 screen states captured in five themes (115 UI snapshots) you can enlarge and links to try each screen. All current content is free.
 
-Preview theme offers five optional color and type styles, including the original design. The flow guide includes an interactive preview with temporary activity separate from saved app progress; the captured screenshots keep their original appearance. Reset to original restores the default.
+Preview theme offers five optional color and type styles, including the original design. The flow guide includes an interactive preview with temporary activity separate from saved app progress; the captured screenshots follow the selected theme. All component colors and states use the same shared theme tokens. Reset to original restores the default.
 
 Storyboards and optional device voices are not finished cinematic films. The Scripture guide uses local retrieval, not a connected generative AI. Membership is an interactive pricing/management preview with no payments. The web app can be added to your home screen; native system widgets require a native release.
 
