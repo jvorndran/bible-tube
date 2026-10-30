@@ -2,7 +2,7 @@
 
 [Open the interactive mobile app preview](https://jvorndran.github.io/bible-tube/) or the [visual user flow guide](https://jvorndran.github.io/bible-tube/flows/).
 
-15 storyboards, complete 66-book Bibles in English/Spanish/Portuguese, reading plans, daily devotionals, guided prayer, local Scripture search, bookmarks, journals, and streaks. Seven user-flow diagrams include 23 UI snapshots you can enlarge and links to try each screen. The app is free. Optional support helps cover production and hosting; giving never unlocks content.
+15 motion storyboards, complete 66-book Bibles in English/Spanish/Portuguese, reading plans, daily devotionals, guided prayer, local Scripture search, bookmarks, journals, and streaks. Seven user-flow diagrams include 23 UI snapshots you can enlarge and links to try each screen. The app is free. Optional support helps cover production and hosting; giving never unlocks content.
 
 Olive & paper is the selected app appearance. All component colors and states use one shared palette. The flow guide includes an interactive preview with temporary activity separate from saved app progress.
 
